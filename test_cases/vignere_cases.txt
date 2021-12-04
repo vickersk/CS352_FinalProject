@@ -1,0 +1,5 @@
+"julia" "This is a very long message that would take quite a bit of time to type out but could probably be extended even longer if need be"
+"python" "This is a very long message that would take quite a bit of time to type out but could probably be extended even longer if need be"
+"cheese" "blue blue blue blue"
+"peterpiper" "how many pickles did peter piper pick"
+"vader" "You were the choosen one Anakin It was said that you would destroy the Sith not join them"
